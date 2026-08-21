@@ -140,7 +140,7 @@ The project includes models such as:
 2. **K-Nearest Neighbors (KNN)**
 3. **Naive Bayes**
 4. **Decision Tree**
-5. **Random Forest**
+
 
 Each model is evaluated using the same testing dataset to provide a fair comparison.
 
